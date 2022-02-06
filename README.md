@@ -1,16 +1,12 @@
-# sb_hack8_iei
+# SB Hacks VIII - Team IEI
+SUbmission for project for the above hackathon by Team IEI. 
 
-A new Flutter project.
+## About out project
+https://devpost.com/software/fake-news-detection-c8l57x
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Steps:
+1. Download the .csv files from kaggle (Refer above Link)
+2. Include these files in API folder.
+3. run app.py (Don't close it)
+4. Clone the Flutter App.
+5. Run it.
