@@ -1,7 +1,7 @@
 # SB Hacks VIII - Team IEI
 Submission project for the above hackathon by Team IEI. 
 
-## About out project
+## About our project
 https://devpost.com/software/fake-news-detection-c8l57x
 
 ## Steps:
